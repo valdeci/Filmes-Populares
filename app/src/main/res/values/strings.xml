@@ -1,0 +1,19 @@
+<resources>
+    <string name="API_KEY">APIKEY</string>
+
+    <string name="app_name">Filmes famosos</string>
+    <string name="activity_detail">Detalhes</string>
+
+
+    <string name="title_menu_popular">Mais popular</string>
+    <string name="title_menu_rate">Melhor Avaliado</string>
+    <string name="title_condensed_menu_popular">Popular</string>
+    <string name="title_condensed_menu_rate">Avaliação</string>
+    <string name="string_avaliacao">%1$.1f/10</string>
+
+    <string name="action_refresh">Refresh</string>
+
+    <string name="error_message">Erro ao carregar os dados</string>
+    <string name="info_image_movie">Cartaz do filme</string>
+
+</resources>
